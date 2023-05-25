@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Mohamed 
 - 👀 I’m interested in Web development , Fornt-End , Backend and Technology.
 - 🌱 I’m currently learning ReactJS, JS ,CSS , HTML , TS , MERN
-- 💞️ I’m looking to collaborate on learning
+- 💞️ I’m looking to collaborate on building projects and open source
 - 📫 How to reach me email
 - Skills
 
