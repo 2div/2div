@@ -6,8 +6,6 @@ I’m a Junior Frontend Developer
 
 I’m a Junior Frontend Developer at Mubaader Services Co. I love learning new technologies and improve my skills.
 
-* 🌍  I'm based in Kuwait
-
 
 ### Skills
 
