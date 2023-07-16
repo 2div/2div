@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Abudllah
 =============================================================================================================================
 
-I’m a frontend engineer, activist and community tech creator
+I’m a Junior Frontend Developer
 ---------------------------------------------
 
 I’m a Junior Frontend Developer at Mubaader Services Co. I love learning new technologies and improve my skills.
