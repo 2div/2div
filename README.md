@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
 I’m a Junior Frontend Developer
 ---------------------------------------------
 
-I’m a Junior Frontend Developer at Mubaader Services Co. I love learning new technologies and improve my skills.
+I’m a Junior Frontend Developer and I love learning new technologies and improve my skills.
 
 
 ### Skills
