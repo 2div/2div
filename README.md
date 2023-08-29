@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZGbnid8SQaLvd5FnLz/giphy.gif" width="200"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=2div&style=flat-square)
