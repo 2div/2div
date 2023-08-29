@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200"/>
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=2div&style=flat-square)
 =============================================================================================================================
@@ -26,3 +26,4 @@ I’m a Junior Frontend Developer and I love learning new technologies and impro
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
 </p>
+</div>
