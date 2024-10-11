@@ -1,11 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div)](https://github.com/2div/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=2div&style=flat-square)
-=============================================================================================================================
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================================
 
 I’m a Frontend Developer with Backend knowledge
 ---------------------------------------------
