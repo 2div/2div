@@ -1,4 +1,4 @@
-
+   
 # 🏄‍♂️ 2div
 
 **`Frontend Developern (Developer)`**
@@ -14,22 +14,8 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      
-# 🏄‍♂️ 2div
-
-**`Frontend Developern (Developer)`**
-
-I’m a Junior Frontend Developer with Backend knowledge and I love learning new technologies and improve my skills.
-
-   <p align="left">
-<!--       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  -->
-<!--       <a href="https://www.youtube.com/">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/"/></a>  -->
-      <a href="https://github.com/2div?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+       <a href="https://github.com/2div/Simple-View-Counter">
+          <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/2div-profile-views"/></a>
    </p>
 
 ---
@@ -58,7 +44,5 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 ![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 #
