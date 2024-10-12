@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=2div&theme=react&show_icons=true&count_private=true&hide=stars">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2div&layout=compact&theme=react">
+
 I’m a Frontend Developer with Backend knowledge
 ---------------------------------------------
 
