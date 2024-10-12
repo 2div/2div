@@ -1,4 +1,6 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg) </p>
+<p align="center">
+  <a href="https://github.com/2div"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome-to+my+profile;I+Love+to+learn+new+stuffs...</a>
+</p>
 
 # 🏄‍♂️ 2div  
 
