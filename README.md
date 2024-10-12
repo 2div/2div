@@ -41,10 +41,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 ### 📊 Stats
 
 ![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
-<a href="https://github.com/2div">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2div&layout=compact&theme=gruvbox&bg_color=0d1117" />
-</a>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5)
 
 #
