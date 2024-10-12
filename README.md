@@ -15,8 +15,8 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
        <a href="https://github.com/2div/Simple-View-Counter">
-          <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/2div-profile-views"/></a>
-      ![Visits](https://img.shields.io/badge/Visits-13081-blue)
+         ![Visits](https://img.shields.io/badge/Visits-4502-blue)</a>
+  
    </p>
 
 ---
