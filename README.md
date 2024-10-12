@@ -17,7 +17,6 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
    </p>
 
 ---
-#
 
 ### 🧰 Languages and Tools
 
@@ -35,6 +34,8 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 <img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="c#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" />
 <br />
+
+#
 
 ### 📊 Stats
 
