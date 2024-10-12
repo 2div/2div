@@ -14,7 +14,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/2div?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-       <a href="https://hits.sh/github.com/2div/2div/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
+       <a display="none" href="https://hits.sh/github.com/2div/2div/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
 
 ---
