@@ -41,7 +41,8 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 ### 📊 Stats
 
 ![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Armanx200&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="armanx200"/>
+![2div's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=2div&show_icons=true&theme=gruvbox)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5) -->
 
