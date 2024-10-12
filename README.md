@@ -35,3 +35,10 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 <img align="left" alt="c#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" />
 <br />
 
+### 📊 Stats
+
+![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5) -->
+
+#
