@@ -17,6 +17,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
    </p>
 
 ---
+#
 
 ### 🧰 Languages and Tools
 
