@@ -14,9 +14,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-       <a href="https://github.com/2div/Simple-View-Counter">
-         ![Visits](https://img.shields.io/badge/Visits-4502-blue)</a>
-  
+      <a href="https://hits.sh/github.com/Vaimalaviya1233/vaimalaviya1233/"><img alt="Hits" src="https://hits.sh/github.com/Vaimalaviya1233/vaimalaviya1233.svg?style=for-the-badge&label=Views&color=ea443a"/></a>
    </p>
 
 ---
@@ -43,6 +41,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 ### 📊 Stats
 
 ![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Armanx200&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="armanx200"/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=2div&theme=gruvbox&border_radius=4.5) -->
 
