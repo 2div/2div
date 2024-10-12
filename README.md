@@ -1,7 +1,7 @@
  
 # 🏄‍♂️ 2div
 
-**`Frontend Developer `** [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg)
+<span>**`Frontend Developer `** [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+)](https://git.io/typing-svg) </span>
 
 I’m a Junior Frontend Developer with Backend knowledge and I love learning new technologies and improve my skills.
 
