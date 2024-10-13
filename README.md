@@ -43,9 +43,9 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-    <br />
-</div>
 
+</div>
+    <br />
 ### 📊 Stats
 
 ![2div's GitHub stats](https://github-readme-stats.vercel.app/api?username=2div&show_icons=true&theme=gruvbox)
