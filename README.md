@@ -22,6 +22,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <br />
 </div>
 
 ### 🧰 Languages and Tools
