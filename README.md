@@ -4,6 +4,10 @@
 
 # 🏄‍♂️ 2div  
 
+<div align=center>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
+
 **`Frontend Developer `** 
 
 I’m a Junior Frontend Developer with Backend knowledge and I love learning new technologies and improve my skills.
@@ -20,9 +24,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
        <a href="https://hits.sh/github.com/2div/2div/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
 
-<div align=center>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</div>
+---
 
 ### 🧰 Languages and Tools
                               
@@ -41,12 +43,7 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br />
 
-
-<div align=center>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-</div>
-
+#
 
 ### 📊 Stats
 
