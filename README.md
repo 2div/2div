@@ -20,7 +20,9 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
        <a href="https://hits.sh/github.com/2div/2div/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
 
----
+<div align=center>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 
 ### 🧰 Languages and Tools
                               
