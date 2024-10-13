@@ -2,7 +2,7 @@
   <a href="https://github.com/2div"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=30&lines=Welcome+to+my+profile"></a>
 </p>
 
-<h1> 2div  <h1>
+
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
