@@ -41,7 +41,9 @@ I’m a Junior Frontend Developer with Backend knowledge and I love learning new
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br />
 
-#
+<div align=center>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 
 ### 📊 Stats
 
