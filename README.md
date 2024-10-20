@@ -6,6 +6,8 @@
 
 **`Frontend Developer `** 
 
+[![An image of @2div8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2div8)](https://holopin.io/@2div8)
+
 I’m a Junior Frontend Developer with Backend knowledge and I love learning new technologies and improve my skills.
 
 <p align="left">
