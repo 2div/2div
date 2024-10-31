@@ -3,7 +3,6 @@
 </p>
 
 [![An image of @2div8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2div8)](https://holopin.io/@2div8)
-[![An image of @2div's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2div)](https://holopin.io/@2div)
 #
 
 # 🏄‍♂2div
