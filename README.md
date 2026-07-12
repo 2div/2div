@@ -7,9 +7,9 @@
 
 # 🏄‍♂2div
 
-**`Frontend Developer `** 
+**`Web Developer `** 
 
-I’m a Junior Frontend Developer with Backend knowledge and I love learning new technologies and improve my skills.
+I’m a Web Developer.
 
 <p align="left">
 <!--       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
